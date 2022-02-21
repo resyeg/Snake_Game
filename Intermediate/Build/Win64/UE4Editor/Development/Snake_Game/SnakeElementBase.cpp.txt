@@ -1,0 +1,3 @@
+C:\projects\Snake_Game\Intermediate\Build\Win64\UE4Editor\Development\Snake_Game\Definitions.Snake_Game.h
+C:\projects\Snake_Game\Source\Snake_Game\SnakeElementBase.h
+C:\projects\Snake_Game\Intermediate\Build\Win64\UE4Editor\Inc\Snake_Game\SnakeElementBase.generated.h

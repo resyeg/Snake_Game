@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Snake_Game-4626.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\projects\Snake_Game\Intermediate\Build\Win64\Snake_GameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\projects\Snake_Game\Intermediate\Build\Win64\UE4Editor\Development\Snake_Game\PlayerPawnBase.cpp.obj"
+"C:\projects\Snake_Game\Intermediate\Build\Win64\UE4Editor\Development\Snake_Game\Snake_Game.cpp.obj"
+"C:\projects\Snake_Game\Intermediate\Build\Win64\UE4Editor\Development\Snake_Game\Snake_GameGameModeBase.cpp.obj"
+"C:\projects\Snake_Game\Intermediate\Build\Win64\UE4Editor\Development\Snake_Game\PlayerPawnBase.gen.cpp.obj"
+"C:\projects\Snake_Game\Intermediate\Build\Win64\UE4Editor\Development\Snake_Game\Snake_Game.init.gen.cpp.obj"
+"C:\projects\Snake_Game\Intermediate\Build\Win64\UE4Editor\Development\Snake_Game\Snake_GameGameModeBase.gen.cpp.obj"
+"C:\projects\Snake_Game\Intermediate\Build\Win64\UE4Editor\Development\Snake_Game\Default.rc2.res"
+/OUT:"C:\projects\Snake_Game\Intermediate\Build\Win64\UE4Editor\Development\Snake_Game\UE4Editor-Snake_Game-4626.lib"
