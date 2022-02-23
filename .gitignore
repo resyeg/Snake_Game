@@ -361,3 +361,12 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Binaries files from UE4
+Binaries/
+
+# Intermediate files from UE4
+Intermediate/
+
+# Saved files from UE4
+Saved/
