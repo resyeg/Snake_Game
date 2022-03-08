@@ -59,5 +59,6 @@
     <ClInclude Include="..\..\Source\Snake_Game\Snake_GameGameModeBase.h">
       <Filter>Source\Snake_Game</Filter>
     </ClInclude>
+    <None Include="cpp.hint" />
   </ItemGroup>
 </Project>
